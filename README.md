@@ -1,4 +1,4 @@
-# Bounding Box Suppression
+# Non-maximum Suppression Collections for Object Detection
 
 LA Tran
 
