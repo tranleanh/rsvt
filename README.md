@@ -1,6 +1,12 @@
 # Haze Removal via Regional Saturation-Value Translation and Soft Segmentation
 
+This repo contains the official Python implementation of the paper "Haze Removal via Regional Saturation-Value Translation and Soft Segmentation".
+
 Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en) and [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en)
+
+<p align="center">
+<img src="docs/comparison.jpg" width="500">
+</p>
 
 
 ## Updates
@@ -17,10 +23,22 @@ This paper proposes a single image dehazing prior, called Regional Saturation-Va
 </p>
 
 <p align="center">
-<img src="docs/comparison.jpg" width="500">
+<img src="docs/rsvt.jpg" width="1000">
 </p>
 
 ### Results
+
+#### 1. Quantitative Results:
+
+<p align="center">
+<img src="docs/table1.jpg" width="500">
+</p>
+
+<p align="center">
+<img src="docs/table2.jpg" width="500">
+</p>
+
+#### 2. Qualitative Results:
 
 (will be updated)
 
@@ -30,6 +48,24 @@ This paper proposes a single image dehazing prior, called Regional Saturation-Va
 
 ### Citation
 
-(will be updated)
+Please cite our works if you use the data in this repo. 
+
+```
+@inproceedings{tran2023single,
+  title={Single image dehazing via regional saturation-value translation},
+  author={Tran, Le-Anh and Kwon, Daehyun and Park, Dong-Chul},
+  booktitle={International Conference on Industry Science and Computer Sciences Innovation},
+  year={2023},
+  organization={Elsevier}
+}
+
+@misc{tran2024rsvt,
+  author = {Tran, Le-Anh and Park, Dong-Chul},
+  title = {Haze Removal via Regional Saturation-Value Translation and Soft Segmentation},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository}
+}
+```
 
 LA Tran
