@@ -17,7 +17,7 @@ This paper proposes a single image dehazing prior, called Regional Saturation-Va
 </p>
 
 <p align="center">
-<img src="docs/fig1.png" width="500">
+<img src="docs/comparison.jpg" width="500">
 </p>
 
 ### Results
