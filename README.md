@@ -64,7 +64,7 @@ This paper proposes a single image dehazing prior, called Regional Saturation-Va
 
 Please cite our works if you use the data in this repo. 
 
-```
+```bibtex
 @inproceedings{tran2023single,
   title={Single image dehazing via regional saturation-value translation},
   author={Tran, Le-Anh and Kwon, Daehyun and Park, Dong-Chul},
