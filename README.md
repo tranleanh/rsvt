@@ -1,6 +1,6 @@
 # Haze Removal via Regional Saturation-Value Translation and Soft Segmentation
 
-This repo contains the official Python implementation of the paper "Haze Removal via Regional Saturation-Value Translation and Soft Segmentation".
+Official Python implementation of the paper "Haze Removal via Regional Saturation-Value Translation and Soft Segmentation".
 
 Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en) and [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en)
 
