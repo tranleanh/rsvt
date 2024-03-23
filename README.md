@@ -66,19 +66,18 @@ Please cite our works if you use the data in this repo.
 
 ```bibtex
 @inproceedings{tran2023single,
-  title={Single image dehazing via regional saturation-value translation},
+  title={Single Image Dehazing via Regional Saturation-Value Translation},
   author={Tran, Le-Anh and Kwon, Daehyun and Park, Dong-Chul},
   booktitle={International Conference on Industry Science and Computer Sciences Innovation},
   year={2023},
   organization={Elsevier}
 }
 
-@misc{tran2024rsvt,
-  author = {Tran, Le-Anh and Park, Dong-Chul},
-  title = {Haze Removal via Regional Saturation-Value Translation and Soft Segmentation},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository}
+@article{tran2024haze,
+  title={Haze Removal via Regional Saturation-Value Translation and Soft Segmentation},
+  author={Tran, Le-Anh and Park, Dong-Chul},
+  journal={arXiv preprint arXiv:2403.12054},
+  year={2024}
 }
 ```
 
