@@ -1,8 +1,11 @@
 # Haze Removal via Regional Saturation-Value Translation and Soft Segmentation
 
-Official Python implementation of the paper "Haze Removal via Regional Saturation-Value Translation and Soft Segmentation".
+Official Python implementation of the Regional Saturation-Value Translation (RSVT) algorithm for single image dehazing.
 
-Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en) and [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en)
+<!---
+Official Python implementation of the paper "Haze Removal via Regional Saturation-Value Translation and Soft Segmentation".
+// Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en) and [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en)
+--->
 
 <p align="center">
 <img src="docs/comparison.jpg" width="500">
@@ -65,12 +68,14 @@ This paper proposes a single image dehazing prior, called Regional Saturation-Va
 Please cite our works if you use the data in this repo. 
 
 ```bibtex
-@inproceedings{tran2023single,
+@article{tran2024single,
   title={Single Image Dehazing via Regional Saturation-Value Translation},
   author={Tran, Le-Anh and Kwon, Daehyun and Park, Dong-Chul},
-  booktitle={International Conference on Industry Science and Computer Sciences Innovation},
-  year={2023},
-  organization={Elsevier}
+  journal={Procedia Computer Science},
+  volume={237},
+  pages={517--524},
+  year={2024},
+  publisher={Elsevier}
 }
 
 @article{tran2024haze,
